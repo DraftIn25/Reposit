@@ -1,0 +1,8 @@
+H:\Тестирование и отладка ПО\ЛР 2\ЛР 2\bin\Debug\ЛР 2.exe.config
+H:\Тестирование и отладка ПО\ЛР 2\ЛР 2\bin\Debug\ЛР 2.exe
+H:\Тестирование и отладка ПО\ЛР 2\ЛР 2\bin\Debug\ЛР 2.pdb
+H:\Тестирование и отладка ПО\ЛР 2\ЛР 2\obj\Debug\ЛР 2.csproj.AssemblyReference.cache
+H:\Тестирование и отладка ПО\ЛР 2\ЛР 2\obj\Debug\ЛР 2.csproj.SuggestedBindingRedirects.cache
+H:\Тестирование и отладка ПО\ЛР 2\ЛР 2\obj\Debug\ЛР 2.csproj.CoreCompileInputs.cache
+H:\Тестирование и отладка ПО\ЛР 2\ЛР 2\obj\Debug\ЛР 2.exe
+H:\Тестирование и отладка ПО\ЛР 2\ЛР 2\obj\Debug\ЛР 2.pdb
